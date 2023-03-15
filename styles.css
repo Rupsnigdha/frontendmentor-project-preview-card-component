@@ -53,7 +53,7 @@ main {
   object-fit: cover;
   border-radius: 8px 0px 0px 8px;
 }
-.card-container-row h2 {
+.card-container-row h1 {
   text-transform: uppercase;
   font-family: var(--montserrat);
   font-weight: 700;
@@ -61,7 +61,7 @@ main {
   letter-spacing: 4px;
   color: var(--dark-grayish-blue);
 }
-.card-container-row h1 {
+.card-container-row h2 {
   font-family: var(--fraunces);
   color: var(--dark-blue);
   line-height: 32px;
@@ -195,10 +195,10 @@ footer .attribution a:focus {
     object-fit: cover;
     border-radius: 8px 8px 0px 0px;
   }
-  .card-container-row h2 {
+  .card-container-row h1 {
     font-size: 12px;
   }
-  .card-container-row h1 {
+  .card-container-row h2 {
     font-size: 28px;
     line-height: 28px;
   }
