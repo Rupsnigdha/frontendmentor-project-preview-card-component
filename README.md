@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Rupsnigdha/frontendmentor-project-preview-card-component](https://github.com/Rupsnigdha/frontendmentor-project-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rupsnigdha.github.io/frontendmentor-project-preview-card-component/](https://rupsnigdha.github.io/frontendmentor-project-preview-card-component/)
 
 ## My process
 
